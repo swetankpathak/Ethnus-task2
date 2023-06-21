@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ethnus-task2/static/css/main.520c8a8a.css",
+    "main.js": "/Ethnus-task2/static/js/main.fde8e305.js",
+    "index.html": "/Ethnus-task2/index.html",
+    "main.520c8a8a.css.map": "/Ethnus-task2/static/css/main.520c8a8a.css.map",
+    "main.fde8e305.js.map": "/Ethnus-task2/static/js/main.fde8e305.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.520c8a8a.css",
+    "static/js/main.fde8e305.js"
+  ]
+}

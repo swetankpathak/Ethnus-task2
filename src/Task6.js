@@ -7,7 +7,7 @@ function Task6() {
         <div className="portfolio px-3 py-3">
             <table cellspacing="35">
                 <tr>
-                    <td><img className="profilePicture" src=" "
+                    <td><img className="profilePicture" src="https://avatars.githubusercontent.com/u/49181082?v=4" alt="Profile Picture" height="250" /></td>
                     <td>
                         <h1 className="name">Swetank Pathak</h1>
                         <p><em>CS Senior at VIT Bhopal. </em></p>
